@@ -1,1 +1,3 @@
 rootProject.name = 'java002'
+include 'java002-testing'
+
